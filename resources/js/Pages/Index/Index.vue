@@ -14,7 +14,7 @@
 
         <h1>Index vue</h1>
         <Link href="/hello">Show page</Link>
-        <div>The message is {{message}}</div>
+
 
 </template>
 
